@@ -13,17 +13,17 @@ Cryptography is crucial in ensuring data security, and lightweight cryptographic
 - Interfacing is done for testing on the Pynq FPGA board.
 - Performance metrics extracted and analyzed.
 ## Future Work
-- • Scalability: Extending the architecture to support higher bit-widths for more complex encryption schemes.
-- • Advanced Cryptographic Algorithms: Integrating support for standard algorithms
+-  Scalability: Extending the architecture to support higher bit-widths for more complex encryption schemes.
+-  Advanced Cryptographic Algorithms: Integrating support for standard algorithms
 such as AES or RSA, alongside custom designs.
-- • Dynamic Key Generation: Developing adaptive or multi-seed LFSR configurations
+-  Dynamic Key Generation: Developing adaptive or multi-seed LFSR configurations
 for improved randomness and enhanced security.
-- • Power and Area Optimization: Refining the design to meet stringent constraints in
+-  Power and Area Optimization: Refining the design to meet stringent constraints in
 low-power and compact embedded systems.
-- • Secure Communication Protocols: Implementing the processor in end-to-end secure
+-  Secure Communication Protocols: Implementing the processor in end-to-end secure
 communication systems with real-time performance evaluation.
 8-bit Processor for Cryptography 10
-- • Hardware Security Features: Adding countermeasures against hardware-based attacks, such as side-channel or fault injection attacks.
+-  Hardware Security Features: Adding countermeasures against hardware-based attacks, such as side-channel or fault injection attacks.
 This work establishes a pathway for developing more secure and efficient processors,
 contributing to the advancement of secure digital communication and embedded system
 design.
@@ -31,5 +31,6 @@ design.
 
 - Xilinx for providing the Pynq platform and development tools.
 - Open-source tools like Verilog and Python for enabling the design and testing process.
+  For full information open 'sayam277/8-bit-processor-for-Cryptography/main/DOCUMENTATION.pdf'
 
 
