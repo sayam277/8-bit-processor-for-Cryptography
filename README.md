@@ -6,7 +6,7 @@ Cryptography is crucial in ensuring data security, and lightweight cryptographic
 - **8-Bit Processor Architecture**: A streamlined and efficient architecture suitable for cryptographic operations.
 - **Instruction Set Design**: Custom instruction set tailored for cryptographic algorithms.
 - **FPGA Implementation**: Hardware implementation and validation on the Xilinx Pynq FPGA board.
-- **Cryptographic Algorithm Support**: Optimized for lightweight encryption and decryption algorithms such as XOR ciphers.
+- **Cryptographic Algorithm Support**: Optimized for lightweight encryption and decryption algorithms such as XOR ciphers, LFSR used for generating Pseudo Random Numbers as Key.
 - **Performance Analysis**: Metrics for throughput, latency, and resource utilization.
 ### FPGA Deployment
 - Design synthesized using Vivado and exported as a bitstream.
@@ -31,6 +31,7 @@ design.
 
 - Xilinx for providing the Pynq platform and development tools.
 - Open-source tools like Verilog and Python for enabling the design and testing process.
-  For full information open ' https://github.com/sayam277/8-bit-processor-for-Cryptography/main/DOCUMENTATION.pdf'
+
+For full information open 'DOCUMENTATION.pdf'
 
 
