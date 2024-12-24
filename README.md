@@ -31,6 +31,6 @@ design.
 
 - Xilinx for providing the Pynq platform and development tools.
 - Open-source tools like Verilog and Python for enabling the design and testing process.
-  For full information open 'sayam277/8-bit-processor-for-Cryptography/main/DOCUMENTATION.pdf'
+  For full information open ' https://github.com/sayam277/8-bit-processor-for-Cryptography/main/DOCUMENTATION.pdf'
 
 
